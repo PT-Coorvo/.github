@@ -1,4 +1,4 @@
-# Pulse
+# Pulse - HR Recommendation System
 
 <p align="justify"> 
 Proyek ini bertujuan untuk mengembangkan platform HR cerdas yang mengotomatisasi proses pencocokan kandidat dengan pekerjaan menggunakan teknologi Artificial Intelligence (AI). Permasalahan yang diidentifikasi adalah lamanya waktu dan kurang efisiennya proses rekrutmen tradisional yang sering kali tidak mampu secara akurat menilai kecocokan antara kandidat dan posisi yang dibutuhkan. Pertanyaan penelitian utama yang diangkat adalah: "Bagaimana AI dapat meningkatkan akurasi dan efisiensi pencocokan kandidat-pekerjaan dalam sistem rekrutmen digital?".
