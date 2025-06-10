@@ -1,6 +1,10 @@
 # Pulse
 
-<p align="justify"> Lorem ipsum dolor sit amet </p>
+<p align="justify"> 
+Proyek ini bertujuan untuk mengembangkan platform HR cerdas yang mengotomatisasi proses pencocokan kandidat dengan pekerjaan menggunakan teknologi Artificial Intelligence (AI). Permasalahan yang diidentifikasi adalah lamanya waktu dan kurang efisiennya proses rekrutmen tradisional yang sering kali tidak mampu secara akurat menilai kecocokan antara kandidat dan posisi yang dibutuhkan. Pertanyaan penelitian utama yang diangkat adalah: "Bagaimana AI dapat meningkatkan akurasi dan efisiensi pencocokan kandidat-pekerjaan dalam sistem rekrutmen digital?".
+
+Sebagai Minimum Viable Product (MVP), sistem difokuskan pada proses rekrutmen, dengan kemampuan untuk menganalisis resume, mengekstrak keterampilan utama, serta merekomendasikan kandidat terbaik untuk suatu posisi disertai penjelasan kecocokan dalam bahasa natural. Platform ini dirancang dengan arsitektur multi-tenant berbasis microservice yang dapat diskalakan, memungkinkan adopsi oleh berbagai organisasi.
+</p>
 
 # Introduction 👋
 
