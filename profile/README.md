@@ -19,5 +19,3 @@ Hi everyone! We are from Pulse Team. We consist of 4 people and these are my tea
 
 # Theme ⚕️
 Solusi Cerdas untuk Masa Depan yang Lebih Baik
-
-# App Key Features (Preview)📱
